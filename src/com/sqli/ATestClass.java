@@ -6,4 +6,8 @@ public class ATestClass {
         System.out.println("Method says : " + aTestParam);
     }
 
+    public void DisplayMenu(){
+        System.out.println("The menu is not available yet!");
+    }
+
 }
